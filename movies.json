@@ -58,6 +58,70 @@
     "image": "https://lumiere-a.akamaihd.net/v1/images/deadpool_wolverine_mobile_640x480_ad8020fd.png"
   },
   {
+    "title": "The Age of Innocence",
+    "year": "2025",
+    "rated": "PG-13",
+    "type": "series",
+    "image": "https://resizing.flixster.com/f2eZ5_W1wXnhBNC6Gp1hk-iQfQ8=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/287/71/thumb_6FBD9C1A-57EF-4493-8966-C5B3255F99C9.jpg"
+  },
+
+  {
+    "title": "Trigger",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://www.heavenofhorror.com/wp-content/uploads/2025/07/Trigger-2025-Netflix-review.jpg"
+  },
+  {
+    "title": "Alien: Earth",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://images.justwatch.com/backdrop/321796717/s1920/alien-earth.avif"
+  },
+  {
+    "title": "House of David",
+    "year": "2025",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://96five.com/wp-content/uploads/sites/3/2025/05/House-of-David-Supplied-and-used-with-permission.jpg"
+  },
+  {
+    "title": "Bridgerton Season 4",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://bloximages.newyork1.vip.townnews.com/dailynebraskan.com/content/tncms/assets/v3/editorial/0/39/0391dbfa-b091-11ec-a71e-7f129cf276bc/6245025ff401a.image.jpg?resize=1200%2C675"
+  },
+  {
+    "title": "Bon Appétit, Your Majesty",
+    "year": "2025",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://i.mydramalist.com/zBWYXz_2f.png"
+  },
+  {
+    "title": "We Were Liars",
+    "year": "2025",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://assets.teenvogue.com/photos/685d7414c0b8b1b8a01dd882/16:9/w_2560%2Cc_limit/WEWL_S1_Static2x3_Wading_2000x3000_PRE_PV_FINAL_en-US_KAPS.jpg"
+  },
+  {
+    "title": "Euphoria Season 3",
+    "year": "2025",
+    "rated": "TV-MA",
+    "type": "series",
+    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/zendaya_rue_euphoria_3.jpg?w=1200&h=675&fit=crop"
+  },
+  {
+    "title": "Arcane Season 2",
+    "year": "2025",
+    "rated": "TV-14",
+    "type": "series",
+    "image": "https://culturedvultures.com/wp-content/uploads/2022/10/Wrcane-803x452.jpg"
+  },
+  {
     "title": "Dune: Part Two",
     "year": "2024",
     "rated": "PG-13",
@@ -91,7 +155,7 @@
     "title": "Trigger Warning",
     "year": "2024",
     "rated": "TV-MA",
-    "type": "series",
+    "type": "movie",
     "image": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABUaImqttwiKkYCCcHM6NyXdW5o_wRS3TyGeWh9MXxkwqBMDtzqQ0g_-CdGU58W0t7BtpucPau4CwlIxFq7_RPVOCdwxDoHZo1USK.jpg?r=3cd"
   },
 
@@ -369,69 +433,5 @@
     "rated": "PG-13",
     "type": "series",
     "image": "https://variety.com/wp-content/uploads/2025/07/Pluribus_101_F00001F_3f5e1a-e1753393618109.jpg"
-  },
-  {
-    "title": "The Age of Innocence",
-    "year": "2025",
-    "rated": "PG-13",
-    "type": "series",
-    "image": "https://resizing.flixster.com/f2eZ5_W1wXnhBNC6Gp1hk-iQfQ8=/620x336/v2/https://statcdn.fandango.com/MPX/image/NBCU_Fandango/287/71/thumb_6FBD9C1A-57EF-4493-8966-C5B3255F99C9.jpg"
-  },
-
-  {
-    "title": "Trigger",
-    "year": "2025",
-    "rated": "TV-MA",
-    "type": "series",
-    "image": "https://www.heavenofhorror.com/wp-content/uploads/2025/07/Trigger-2025-Netflix-review.jpg"
-  },
-  {
-    "title": "Alien: Earth",
-    "year": "2025",
-    "rated": "TV-MA",
-    "type": "series",
-    "image": "https://images.justwatch.com/backdrop/321796717/s1920/alien-earth.avif"
-  },
-  {
-    "title": "House of David",
-    "year": "2025",
-    "rated": "TV-14",
-    "type": "series",
-    "image": "https://96five.com/wp-content/uploads/sites/3/2025/05/House-of-David-Supplied-and-used-with-permission.jpg"
-  },
-  {
-    "title": "Bridgerton Season 4",
-    "year": "2025",
-    "rated": "TV-MA",
-    "type": "series",
-    "image": "https://bloximages.newyork1.vip.townnews.com/dailynebraskan.com/content/tncms/assets/v3/editorial/0/39/0391dbfa-b091-11ec-a71e-7f129cf276bc/6245025ff401a.image.jpg?resize=1200%2C675"
-  },
-  {
-    "title": "Bon Appétit, Your Majesty",
-    "year": "2025",
-    "rated": "TV-14",
-    "type": "series",
-    "image": "https://i.mydramalist.com/zBWYXz_2f.png"
-  },
-  {
-    "title": "We Were Liars",
-    "year": "2025",
-    "rated": "TV-14",
-    "type": "series",
-    "image": "https://assets.teenvogue.com/photos/685d7414c0b8b1b8a01dd882/16:9/w_2560%2Cc_limit/WEWL_S1_Static2x3_Wading_2000x3000_PRE_PV_FINAL_en-US_KAPS.jpg"
-  },
-  {
-    "title": "Euphoria Season 3",
-    "year": "2025",
-    "rated": "TV-MA",
-    "type": "series",
-    "image": "https://static0.colliderimages.com/wordpress/wp-content/uploads/2025/08/zendaya_rue_euphoria_3.jpg?w=1200&h=675&fit=crop"
-  },
-  {
-    "title": "Arcane Season 2",
-    "year": "2025",
-    "rated": "TV-14",
-    "type": "series",
-    "image": "https://culturedvultures.com/wp-content/uploads/2022/10/Wrcane-803x452.jpg"
   }
 ]
