@@ -51,9 +51,9 @@ const login = async (req, res) => {
       res.status(401).json({ message: "Wrong password", user });
     }
     // token
-    const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, {
-      expiresIn: "3d",
-    });
+      const token = jwt.sign({ userId: user._id }, process.env.JWT_SECRET, {
+        expiresIn: "3d",
+      });
 
     res.status(200).json({ message: "Login was Successful", user, token });
   } catch (err) {
@@ -64,7 +64,7 @@ const login = async (req, res) => {
 // CONTROLLER TO LOGOUT AN EXISTING USER
 const logout = async (req, res) => {
   try {
-    // Since Jwts are stateless, we can't trul "delete" them on the backend
+    // Since Jwts are stateless, we can't truly "delete" them on the backend
     // what we can do is simply tell the client to delete their copy
     // You can also implement token blacklisting if needed in the
     res.status(200).json({ message: "Logout Successfully" });
